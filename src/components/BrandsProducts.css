@@ -1,0 +1,38 @@
+.brands-dropdown {
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 10px;
+  }
+  
+  .brands-dropdown li {
+    padding: 5px 0;
+  }
+  
+  .brand-products {
+    padding: 20px;
+  }
+  
+  .product-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .product-item {
+    width: 200px;
+    text-align: center;
+  }
+  
+  .product-item img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .product-item h3 {
+    margin: 10px 0 5px;
+  }
+  
+  .product-item p {
+    color: gray;
+  }
+  

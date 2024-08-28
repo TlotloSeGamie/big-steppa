@@ -1,0 +1,12 @@
+
+      <ul className="navbar-center">
+        <li><Link to='/new-arrivals'>New Arrivals</Link></li>
+        <li><Link to='/shoes'>Shoes</Link></li>
+        <li><Link to='/women'>Women</Link></li>
+        <li><Link to='/men'>Men</Link></li>
+        <li><Link to='/kids'>Kids</Link></li>
+        <li><Link to='/accessories'>Accessories</Link></li>
+        <li><Link to='/brands'>Brands</Link></li>
+        <li><Link to='/deals'>Deals</Link></li>
+        <li><Link to='/more'>...more</Link></li>
+      </ul>
